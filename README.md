@@ -23,12 +23,12 @@ Una aplicación móvil desarrollada con Flutter que te ayuda a organizar tus tar
 
 1. Clona el repositorio
 ```bash
-git clone https://github.com/tuusuario/task-app.git
+git clone https://github.com/gabigonzalz/flutter_task_app.git
 ```
 
 2. Navega al directorio del proyecto
 ```bash
-cd task-app
+cd flutter_task_app
 ```
 
 3. Instala las dependencias
